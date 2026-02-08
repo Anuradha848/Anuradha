@@ -45,15 +45,11 @@
 </a>
 </p>
 
----
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Anuradha848&show_icons=true&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anuradha848&layout=compact&theme=tokyonight)
 
----
 
 ⭐️ From [Anuradha](https://github.com/Anuradha848)
