@@ -1,68 +1,59 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23979
-Fork on GitHub
-8242
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Anu</h1>
-<h3 align="center">A Passionate Full Stack Developer from India Currently exploring Backend Development</h3>
+<h3 align="center">A Passionate Full Stack Developer from India 🚀</h3>
 
-- 🔭 I’m currently working on **Building backend applications using Node.js and Express**
+---
 
-- 🌱 I’m currently learning **Node.js,Express.js,MongoDB**
+### 👩‍💻 About Me
+- 🔭 I’m currently working on **Backend Development**
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
+- 💡 I enjoy building real-world web applications
+- 💬 Ask me about **HTML, CSS, JavaScript, React, REST APIs**
+- ⚡ Fun fact: I debug code faster with coffee ☕😄
 
-- 👯 I’m looking to collaborate on **Open-source projects related to Web Development**
+---
 
-- 🤝 I’m looking for help with **Backend architecture and API optimization**
+### 🛠️ Languages and Tools
 
-- 💬 Ask me about **HTML,CSS,DOM,JavaScript,React,REST APIs**
-
-- 📫 How to reach me **anuradhal4264@gmail.com**
-
-- ⚡ Fun fact **I can debug code faster than coffee☕**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+### 📂 Featured Projects
+- 🔹 **Book Management System** – Built using JavaScript with localStorage  
+- 🔹 **To-DO List System** – Task Creation and Deletion features
+- 🔹 More projects coming soon...
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/anuradha-lingasani-502409349" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
+</a>
+<a href="mailto: anuradhal4264@gmail.com" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40" />
+</a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+⭐️ From [Anuradha](https://github.com/Anuradha848)
